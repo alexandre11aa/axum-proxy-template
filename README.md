@@ -1,6 +1,6 @@
 # rust-proxy
 
-Proxy que busca dados de uma API externa, organiza/calcula em cima deles, e serve em JSON pronto pra consumir.
+Proxy simples que busca dados de uma API externa, organiza/calcula em cima deles, e serve em JSON pronto pra consumir.
 
 Fluxo: **chegada** (busca API externa) → **operação** (transforma/calcula) → **partida** (serve no endpoint).
 
