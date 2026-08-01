@@ -1,4 +1,4 @@
-# Axum API Proxy Template
+# Axum Proxy Template
 
 Proxy simples que busca dados de uma API externa, organiza/calcula em cima deles, e serve em JSON pronto pra consumir.
 
